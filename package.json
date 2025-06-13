@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "[![Actions Status](https://github.com/Kirill-Chigirev/frontend-project-12/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Kirill-Chigirev/frontend-project-12/actions)",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "build": "npm run build --prefix frontend",
     "start": "start-server -s ./frontend/dist",
